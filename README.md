@@ -1,2 +1,2 @@
 # JavaScript_Workspace
-All My Javascript related work can be found here
+A simple calculator using HTML, CSS and the magical JavaScript. Enjoy.
